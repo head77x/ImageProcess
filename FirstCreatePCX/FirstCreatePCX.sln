@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirstCreatePCX", "FirstCreatePCX.vcproj", "{F31B6B7A-9934-4DA5-8A60-DD261DEC2F3E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F31B6B7A-9934-4DA5-8A60-DD261DEC2F3E}.Debug.ActiveCfg = Debug|Win32
+		{F31B6B7A-9934-4DA5-8A60-DD261DEC2F3E}.Debug.Build.0 = Debug|Win32
+		{F31B6B7A-9934-4DA5-8A60-DD261DEC2F3E}.Release.ActiveCfg = Release|Win32
+		{F31B6B7A-9934-4DA5-8A60-DD261DEC2F3E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
